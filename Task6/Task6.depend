@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714374766 source:c:\users\xaxo\desktop\homework\task6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1714371926 source:c:\users\xaxo\desktop\homework\task6\zad1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1714375369 source:c:\users\xaxo\desktop\homework\task6\zad2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
